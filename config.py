@@ -38,11 +38,11 @@ class Txt(object):
 <b>𝘕𝘰𝘵𝘦 :</b>Join Official Channel @CineMoj"""
 
     ABOUT_TXT = """
-<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/TechifyBots'>ʀᴇɴᴀᴍᴇ ɢᴇɴɪᴇ ʙᴏᴛ</a>
+<b>❍ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/CineMoj'>Official Channel</a>
 ❍ ʜᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ
 ❍ ᴅᴀᴛᴀʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ
 ❍ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 𝟹
-❍ ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a>
+❍ ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/TGSeoboy'>Lakshman</a>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ᴍᴏʀᴇ ɪɴꜰᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</b>
 """
